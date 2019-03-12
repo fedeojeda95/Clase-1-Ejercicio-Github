@@ -2,7 +2,12 @@
 Ojeda, Federico (xxxxxx) -> Usuario Github: fedeojeda95
 ----------------------------------------
 
+<<<<<<< Updated upstream
 () -> Usuario Github:
+=======
+Canessa, Andres(178062) -> Usuario Github: andrescanessa
+Bravo, Manuel(174794) -> Usuario Github: mbravo147
+>>>>>>> Stashed changes
 () -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
